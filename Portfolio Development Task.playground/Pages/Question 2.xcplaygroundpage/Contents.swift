@@ -17,9 +17,9 @@
  
  */
 // Answer question 2 below
-let nameoftheablum = ("ukulele jam")
-var copiessold = 200
-var sellingprice = 19.99
+let nameOfTheAblum = ("ukulele jam")
+var copiesSold = 200
+var sellingPrice = 19.99
 
 /*:
  ## Now share your understanding

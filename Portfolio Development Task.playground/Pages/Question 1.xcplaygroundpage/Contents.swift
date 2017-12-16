@@ -11,8 +11,8 @@
  */
 // Answer question 1 below
 var howlongwetravelledfor = 5.875
-var s = 80.0
-let dct = s * howlongwetravelledfor
+var speedofcar = 80.0
+let distancetravelleed = speedofcar * howlongwetravelledfor
 
 /*:
 - callout(Shortcut): The **Edit All in Scope** menu command is useful when renaming variables – place your cursor within the variable name and then invoke the menu command.
