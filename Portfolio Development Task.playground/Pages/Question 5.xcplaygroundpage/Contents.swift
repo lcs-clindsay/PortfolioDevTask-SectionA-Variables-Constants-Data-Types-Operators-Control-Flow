@@ -10,12 +10,29 @@
  Write an `if` statement that prints "Must be Braeckman!" when the values of the constants would seem to suggest the person is Mr. Braeckman, or otherwise prints "Hmm, need more data to be sure."
  
  */
-let teachesPhysics = true
+var teachesPhysics = true
 let isMale = true
 let neverEverSarcastic = true
 
 // Answer question 5 below
-
+if teachesPhysics == true {
+    ("must be braeakman")
+}
+if isMale == true {
+    ("must be braeakman")
+}
+if neverEverSarcastic == true {
+    ("must be braekman")
+}
+if teachesPhysics == false {
+    ("Hmm, need more data to be sure")
+}
+if isMale == false {
+    ("Hmm, need more data to be sure")
+}
+if neverEverSarcastic == false {
+    ("Hmm, need more data to be sure")
+}
 
 /*:
  ## Now share your understanding
