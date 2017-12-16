@@ -19,7 +19,10 @@
  
  */
 // Answer question 4 below
-
+var moneyIHaveEarned = 0
+var payHer = 0.75 * 13
+moneyIHaveEarned = 5 - 2 * 4
+moneyIHaveEarned = payHer + moneyIHaveEarned
 /*:
  ## Now share your understanding
  
