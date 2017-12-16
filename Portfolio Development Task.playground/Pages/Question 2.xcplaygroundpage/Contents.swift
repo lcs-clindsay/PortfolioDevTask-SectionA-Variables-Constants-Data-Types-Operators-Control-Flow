@@ -17,6 +17,9 @@
  
  */
 // Answer question 2 below
+let nameoftheablum = ("ukulele jam")
+var copiessold = 200
+var sellingprice = 19.99
 
 /*:
  ## Now share your understanding
