@@ -17,7 +17,7 @@
  
  */
 // Answer question 2 below
-let nameOfTheAblum = ("ukulele jam")
+let nameOfTheAblum = print ("ukulele jam")
 var copiesSold = 200
 var sellingPrice = 19.99
 

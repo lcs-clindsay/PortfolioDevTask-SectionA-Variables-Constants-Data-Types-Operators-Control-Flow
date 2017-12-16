@@ -17,6 +17,23 @@
  
  */
 // Answer question 6 below
+let targetDistance = 50.0
+var currentDistanceRun = 0.0
+
+let currentDistanceRun {
+var 0...targetDistance * 0.10:
+    print("Great start, keep it up!")
+  switch  } targetDistance * 0.45 targetDistance * 0.49:
+    print("You're almost at halfway!")
+switch targetDistance * 0.5:
+    print("Halfway there!")
+switch targetDistance * 0.9 to targetDistance * 0.99:
+    print("Nearly done!")
+cswitch targetDistance * 1:
+    print("great job! You're finished the run")
+default:
+    print("Keep it up!")
+}
 
 
 /*:
